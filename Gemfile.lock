@@ -10,7 +10,7 @@ GEM
     mocha (1.1.0)
       metaclass (~> 0.0.1)
     mustache (1.0.0)
-    rake (10.0.4)
+    rake (12.3.3)
     rdiscount (2.1.8)
     ronn (0.7.3)
       hpricot (>= 0.8.2)
